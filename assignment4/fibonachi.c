@@ -1,3 +1,4 @@
+// fibonachi
 #include <stdio.h>
 #include <omp.h>
 

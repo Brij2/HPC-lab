@@ -1,3 +1,4 @@
+// static_dynamic_nowait.c
 #include <stdio.h>
 #include <omp.h>
 

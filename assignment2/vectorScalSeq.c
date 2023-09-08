@@ -1,3 +1,4 @@
+// vector scal Seq
 #include <stdio.h>
 #include <time.h>
 

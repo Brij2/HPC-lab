@@ -1,3 +1,4 @@
+// vec scal parallel
 #include <omp.h>
 #include <stdio.h>
 
